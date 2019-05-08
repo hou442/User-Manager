@@ -1,6 +1,7 @@
 # vcustomers
 
 > A Vue.js project
+一个用户管理系统小项目
 
 ## Build Setup
 
